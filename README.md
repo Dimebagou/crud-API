@@ -3,8 +3,15 @@
 
 - I’m currently working on [Crud-API](https://github.com/Dimebagou/crud-API)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to install package needed for the projet via the terminal :</h3>
 <p align="left">
+  npm init -y</br>
+   npm install mongoose express dotenv cors
+</br>
+  npm install -D nodemon
+</br>
+  npm start
+</br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
