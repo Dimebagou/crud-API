@@ -5,7 +5,8 @@
 
 <h3 align="left">How to install package needed for the projet via the terminal :</h3>
 <p align="left">
-```npm init -y
+```bash
+  npm init -y
 ```
   
    npm install mongoose express dotenv cors
