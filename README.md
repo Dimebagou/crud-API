@@ -6,8 +6,6 @@
 <h3 align="left">How to install package needed for the projet via the terminal :</h3>
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
 npm init -y
 ```
