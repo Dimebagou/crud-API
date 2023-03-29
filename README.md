@@ -16,7 +16,7 @@ npm install -D nodemon
 ```
 
 <p>Inside the main folder, create a .env file and put your MongoDB url inside like this :</p>
-```javascript
+```js
 MONGODB_URL="Replace this by your own MongoDB Url"
 ```
 
