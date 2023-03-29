@@ -27,17 +27,33 @@ MONGODB_URL="Replace this by your own MongoDB Url"
 npm start
 ```
 
-<h2 align="left">3 - Test the script</h3>
+<h2 align="left">3 - Test the script with Postman</h3>
 
 <p>You can use the software Postman to CREATE, READ, UPDATE or DELETE </p>
 
 <h3 align="left">Create</h2>
+<p>Use the POST and use this url to get the list of all the todos :</p>
+
+```bash
+localhost:8080/todos
+```
+
+<p>Here is an example of a todo you can post :</p>
+
+```bash
+{
+    "title": "Title 1",
+    "description": "Description 1",
+    "completed": false
+}
+```
+
+<h3 align="left">Read</h2>
 <p>Use the GET and use this url to get the list of all the todos :</p>
 
 ```bash
 localhost:8080/todos
 ```
-<h3 align="left">Read</h2>
 <h3 align="left">Update</h2>
 <h3 align="left">Delete</h2>
 
