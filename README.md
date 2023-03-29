@@ -9,7 +9,13 @@
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install foobar
+npm init -y
+```
+```bash
+npm install mongoose express dotenv cors
+```
+```bash
+npm install -D nodemon
 ```
 
 ## Usage
