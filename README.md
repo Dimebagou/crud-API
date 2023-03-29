@@ -4,7 +4,6 @@
 - I’m currently working on [Crud-API](https://github.com/Dimebagou/crud-API)
 
 <h3 align="left">How to install package needed for the projet via the terminal :</h3>
-## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
@@ -18,7 +17,7 @@ npm install mongoose express dotenv cors
 npm install -D nodemon
 ```
 
-## Usage
+<h3 align="left">Run the script</h3>
 
 ```bash
 npm start
