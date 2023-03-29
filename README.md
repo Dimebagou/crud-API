@@ -33,6 +33,7 @@ npm start
 
 <h2 align="left">Create</h2>
 <p>Use the GET and use this url to get the list of all the todos :</p>
+
 ```bash
 localhost:8080/todos
 ```
