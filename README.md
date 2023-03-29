@@ -40,7 +40,7 @@ localhost:8080/todos
 
 <p>Here is an example of a todo you can post :</p>
 
-```bash
+```js
 {
     "title": "Title 1",
     "description": "Description 1",
