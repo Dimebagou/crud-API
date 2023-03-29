@@ -15,7 +15,7 @@ npm install mongoose express dotenv cors
 npm install -D nodemon
 ```
 
-<p>Inside the main folder, create a .env file and put your MongoDB url inside like this :</p>
+<h3>Inside the main folder, create a .env file and put your MongoDB url inside like this :</h3>
 
 ```javascript
 MONGODB_URL="Replace this by your own MongoDB Url"
