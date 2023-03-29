@@ -4,9 +4,8 @@
 - I’m currently working on [Crud-API](https://github.com/Dimebagou/crud-API)
 
 <h3 align="left">How to install package needed for the projet via the terminal :</h3>
-<p align="left">
 ```bash
-  npm init -y
+pip install foobar
 ```
   
    npm install mongoose express dotenv cors
