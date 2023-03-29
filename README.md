@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimebagou</h1>
 <h3 align="center">A passionate student fullstack developer from France</h3>
 
-- I’m currently working on [Crud-API](https://github.com/Dimebagou/crud-API)
+- I’m currently a student web dev learning and working on [Crud-API](https://github.com/Dimebagou/crud-API). Here I'm using Node.js to make an API from a MongoDB database I created.
 
 <h3 align="left">How to install package needed for the projet via the terminal :</h3>
 
